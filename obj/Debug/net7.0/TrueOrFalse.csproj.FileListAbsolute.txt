@@ -1,0 +1,5 @@
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\TrueOrFalse\obj\Debug\net7.0\TrueOrFalse.csproj.AssemblyReference.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\TrueOrFalse\obj\Debug\net7.0\TrueOrFalse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\TrueOrFalse\obj\Debug\net7.0\TrueOrFalse.AssemblyInfoInputs.cache
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\TrueOrFalse\obj\Debug\net7.0\TrueOrFalse.AssemblyInfo.cs
+C:\Users\Charles_Patterson\Documents\Coding-Projects\C#-Projects\TrueOrFalse\obj\Debug\net7.0\TrueOrFalse.csproj.CoreCompileInputs.cache
